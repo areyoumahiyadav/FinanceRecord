@@ -1,0 +1,22 @@
+##Privacy Policy
+
+Privacy Commitment: Clear commitment to transparent, offline-first data handling with zero monetization or harvesting of financial records.
+
+1 • Information Handled by the App:
+- Customer Profiles: Names, phone numbers, addresses, and customer notes entered by you.
+- Ledger Transactions: Credit and debit amounts, transaction categories (Sales, Lending, Daily Collection, Installment, etc.), transaction dates, and descriptions.
+- Business Identity Assets: Optional business name, phone, address, digital signature, and business stamp image used exclusively to customize generated PDF statements.
+
+2 • Local-First Data Storage (Zero Telemetry): All records are stored directly on your device in private application storage. The app contains zero third-party ad SDKs, zero user tracking frameworks, and zero external telemetry servers.
+
+3 • Optional Google Drive Backup: Uses standard Google Sign-In with restricted drive.file OAuth scope, ensuring backups reside entirely within your personal Google account and remain inaccessible to the developer or third parties.
+
+4 • Exports & Statement Sharing: Generated PDF statements, CSV spreadsheets, and offline backups are saved strictly to device storage locations you select; sharing (via WhatsApp, Email, or Print) is initiated exclusively by you.
+
+5 • Data Retention & Permanent Deletion: You retain complete ownership to edit, archive, trash, or permanently purge records from your device at any time.
+
+6 • Device Security: Protected by Android's application sandbox security, with recommendations to maintain a secure device screen lock.
+
+7 • Policy Updates: Accessible anytime in the app under Settings → About → Privacy Policy.
+
+8 • Contact & Inquiries: Privacy contact: Jangili Mahesh (maheshyadavjangili@gmail.com, GitHub: areyoumahiyadav).

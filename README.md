@@ -1,6 +1,7 @@
+FinanceRecord – Your Personal Finance Record Keeper
+
 [![Get it on Orion Store](https://raw.githubusercontent.com/RookieEnough/Orion-Store/refs/heads/main/assets/orion-badge.png)](https://rookieenough.github.io/Orion-Data/redirect.html?id=financerecord)
 
-FinanceRecord – Your Personal Finance Record Keeper
 
 FinanceRecord is a simple and convenient financial record management application designed to help you keep track of your financial activities. It helps you maintain organized records and makes managing your everyday finances easier.
 

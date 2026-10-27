@@ -1,0 +1,24 @@
+[
+  {
+    "name": "FinanceRecord",
+    "id": "financerecord",
+    "description": "FinanceRecord makes it easy to record, organize, and manage your financial transactions in one convenient place.",
+    "icon": "https://raw.githubusercontent.com/areyoumahiyadav/FinanceRecord/main/Screenshots/ic_launcher.png",
+    "repoUrl": "https://github.com/areyoumahiyadav/FinanceRecord",
+    "githubRepo": "areyoumahiyadav/FinanceRecord",
+    "gitlabRepo": "",
+    "gitlabDomain": "",
+    "codebergRepo": "",
+    "releaseKeyword": "apk",
+    "packageName": "com.finance.records",
+    "category": "Utility",
+    "author": "areyoumahiyadav",
+    "downloadUrl": "https://github.com/areyoumahiyadav/FinanceRecord/releases/download/FinanceRecord/FinanceRecord-v0.2.r.apk",
+    "screenshots": [
+      "https://raw.githubusercontent.com/areyoumahiyadav/FinanceRecord/main/Screenshots/Screenshot_2026-10-24-22-20-17-197_com.finance.records.jpg",
+      "https://raw.githubusercontent.com/areyoumahiyadav/FinanceRecord/main/Screenshots/Screenshot_2026-10-24-22-20-19-386_com.finance.records.jpg",
+      "https://raw.githubusercontent.com/areyoumahiyadav/FinanceRecord/main/Screenshots/Screenshot_2026-10-24-22-20-34-494_com.finance.records.jpg"
+    ],
+    "platform": "Android"
+  }
+]
